@@ -1,0 +1,12 @@
+.input-50{
+    width: 50%;
+}
+.input-100{
+    width: 100%;
+}
+.input-50, .input-100{
+    position:relative;
+}
+.form-control{
+    margin-top: 7px;
+}
